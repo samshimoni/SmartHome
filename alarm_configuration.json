@@ -1,0 +1,12 @@
+{
+    "mail_addresses" : [
+        "",
+        ""
+    ],
+    "host" : "",
+    "alarm_sounds": {
+        "LOW" : "mp3/wav files",
+        "CRITICAL": "mp3/wav files"
+    },
+    "alarm_level_file": ""
+}
